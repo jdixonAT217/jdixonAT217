@@ -1,7 +1,7 @@
 - 👋 Hi, I’m John Dixon with AgileThought
 - 👀 I’m interested in mobile architecture
 - 🌱 I’m currently learning .NET MAUI
-- 💞️ I’m looking to collaborate on mobile architecture and Xamarin Forms to .NET MAUI conversions
+- 💞️ I’m looking to collaborate on mobile architecture and .NET MAUI
 - 📫 How to reach me. Via email at john.dixon@agilethought.com
 
 <!---
